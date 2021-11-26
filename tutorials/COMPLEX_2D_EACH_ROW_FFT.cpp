@@ -10,7 +10,7 @@
 
   Discussion:
 
-	in: Input data, we generate h = 6, w = 10 random real values stored as a matrix of type float array named "in"
+	in: Input data, we generate h = 6, w = 10 random complex values stored as a matrix of type fftwf_complex array named "in"
 	out: 1D FFT calculation for each row of 2D data
 	in2 : 1D Inverse FFT calculation for each row of out
 
