@@ -1,4 +1,6 @@
 # FFTW Tutorials
+<img src="https://img.shields.io/badge/FFTW-3.3.5-76B900?style=for-the-badge" alt="GPU" style="vertical-align:top margin:6px 4px">
+
 This repo contains the fftw library examples for 1D/2D fourier transforms and an easy to use interface (**ffwf_.h**).
 
 In the **tutorials** directory,
