@@ -14,7 +14,7 @@ In the **tutorials** directory,
 If the tutorials seem complicated to you, you can use **fftwf_.h** (Float values are preferred instead of double for operations).
 You can get help from [**fftwf_tutorial**](https://github.com/fbasatemur/fftw_tutorials/blob/main/fftwf_tutorial.cpp) to use the fftwf interface. 
 
-Below is the uml diagram for you to understand the FFTWF interface
+UML diagram is below for you to understand the FFTWF interface
 
 ![fftwf_uml](https://github.com/fbasatemur/fftw_tutorials/blob/main/doc/fftwf_uml.png)
 
